@@ -1,0 +1,3 @@
+https://www.tutorialspoint.com/c_standard_library/math_h.htm
+
+http://linguagemc.com.br/a-biblioteca-math-h/
